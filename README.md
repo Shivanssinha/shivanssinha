@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | Java Full-Stack & MERN Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivanssinha&label=Profile%20views&color=0e75b6&style=flat" alt="shivanssinha" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanssinha&theme=radical&column=5" alt="shivanssinha trophies" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shivanssinha&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="shivanssinha" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanssinha&amp;theme=radical&amp;column=5" alt="shivanssinha trophies" /></a>
 </p>
 
 ---
@@ -55,10 +55,12 @@
 
 ### 📊 GitHub Statistics:
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanssinha&show_icons=true&locale=en&layout=compact&theme=radical" alt="shivanssinha" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanssinha&show_icons=true&locale=en&theme=radical" alt="shivanssinha" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanssinha&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical" alt="shivanssinha top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanssinha&amp;show_icons=true&amp;locale=en&amp;theme=radical" alt="shivanssinha stats" />
 </p>
 
+<br clear="both">
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanssinha&theme=radical" alt="shivanssinha" />
+  <img src="https://streak-stats.demolab.com/?user=shivanssinha&amp;theme=radical" alt="shivanssinha streak" />
 </p>
