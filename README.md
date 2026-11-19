@@ -1,59 +1,78 @@
-<h1 align="center">Shivans Kumar Sinha</h1>
-<p align="center">
-  Backend developer building APIs, SQL databases and RAG pipelines<br>
-  B.Tech Computer Science and Engineering, Jawaharlal Nehru University (expected 2028)
-</p>
+<h1 align="center">Hi 👋, I'm Shivans Sinha</h1>
+<h3 align="center">Backend Developer | FastAPI, SQL & RAG | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:7105sks@gmail.com"><img src="https://img.shields.io/badge/Email-7105sks@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/shivans-sinha-616534360"><img src="https://img.shields.io/badge/LinkedIn-Shivans%20Sinha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/SHIVANS_SINHA/"><img src="https://img.shields.io/badge/LeetCode-SHIVANS__SINHA-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <!-- Add once your portfolio is live:
-  <a href="https://shivanssinha.github.io"><img src="https://img.shields.io/badge/Portfolio-shivanssinha.github.io-0c1220?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a> -->
+  <img src="https://komarev.com/ghpvc/?username=shivanssinha&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="shivanssinha" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanssinha&amp;theme=radical&amp;column=5" alt="shivanssinha trophies" /></a>
 </p>
 
 ---
 
-## About
+### 💫 About Me:
+- 🚀 **Backend Development:** Building REST APIs with **FastAPI** and relational databases (**MySQL**, **PostgreSQL**), containerized with **Docker**.
+- 🧠 **AI / RAG:** Built **TravelMind**, a travel recommendation platform with a two-stage ranking engine and a RAG pipeline (ChromaDB + SentenceTransformers) that streams LLM itineraries.
+- 🏋️ **Fitness Tracker:** A full-stack workout and nutrition tracker with **React**, **FastAPI** and **MySQL**, with analytics written in raw SQL (window functions, CTEs). [View the code](https://github.com/Shivanssinha/Fitness_Tracker)
+- ⚡ **DSA Grinding:** Deeply passionate about problem-solving. Currently mastering advanced concepts through **Striver's A2Z Sheet**.
+- 🎓 **Education:** B.Tech in Computer Science and Engineering at **Jawaharlal Nehru University**, expected 2028.
+- 📧 **Reach Me At:** **7105sks@gmail.com**
 
-I build the backend side of applications: REST APIs, relational databases and search that run in Docker. My recent work covers a RAG-powered travel recommender and a full-stack fitness tracker with a SQL-heavy MySQL backend. I am looking for backend and SDE internships and full-time roles, and I solve DSA problems on LeetCode.
+<!-- TODO: add a TravelMind repo link to its bullet above, and a Portfolio link once your site is live -->
 
-## Projects
+---
 
-### TravelMind: AI-powered travel recommendation platform
-`Python` `FastAPI` `PostgreSQL` `Docker` `Nginx` `ChromaDB` `SentenceTransformers` `JavaScript`
+### 🛠️ Tech Stack & Tools:
 
-- Full-stack platform over 521 Indian destinations, containerized with Docker Compose (FastAPI, PostgreSQL, Nginx) and secured with Google OAuth and JWT cookie sessions.
-- Two-stage ranking engine: TF-IDF keyword search with field boosting shortlists destinations, then 8 weighted signals (vibe, semantic similarity, budget, distance, season, group type, popularity, duration) re-rank them.
-- RAG pipeline with section-aware chunking (about 4,500 chunks) in ChromaDB using `all-MiniLM-L6-v2` embeddings. L2-normalized vectors reduce cosine similarity to NumPy dot products (sub-2 ms).
-- LLM itineraries streamed over SSE with Groq, with automatic Gemini and no-LLM fallbacks, grounded in retrieved facts to reduce hallucination.
+#### **Backend & Core Languages**
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
-<!-- TODO: add the TravelMind repo link here, e.g. [View the code](https://github.com/Shivanssinha/YOUR_REPO) -->
+#### **Frontend**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
+</p>
 
-### Fitness Tracker: full-stack workout and nutrition tracker
-`React.js` `Vite` `Python` `FastAPI` `MySQL` `SQLAlchemy` `JWT` `Recharts`
+#### **Databases, DevOps & Design**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
-- React and Vite client with a FastAPI REST API (20+ endpoints), JWT authentication with bcrypt hashing, and per-user data isolation on MySQL.
-- Normalized MySQL schema (6 tables) with foreign keys, cascade and restrict rules, CHECK and UNIQUE constraints, composite indexes and a SQL view for weekly training volume.
-- Analytics in raw SQL: window functions (`ROW_NUMBER`, `LAG`) for personal records and progression, a CTE-based gaps-and-islands query for workout streaks, and correlated subqueries for live goal progress.
-- Atomic workout saving with SQLAlchemy transactions (commit and rollback on failure) and Recharts dashboards for weekly volume and exercise progress.
+---
 
-[View the code](https://github.com/Shivanssinha/Fitness_Tracker)
+### 🤝 Connect With Me:
+<p align="left">
+  <a href="https://linkedin.com/in/shivans-sinha-616534360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivans-sinha-616534360" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/SHIVANS_SINHA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivans_sinha" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/shivans_sinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivans_sinha" height="30" width="40" /></a>
+  <a href="https://instagram.com/shivansji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivansji" height="30" width="40" /></a>
+</p>
 
-## Skills
+---
 
-| | |
-|---|---|
-| **Languages** | C++, Java, JavaScript, Python, SQL, MIPS Assembly |
-| **Backend and AI** | FastAPI, REST APIs, Node.js, Express.js, SentenceTransformers, ChromaDB |
-| **Databases and tools** | PostgreSQL, MySQL, Firebase, Git, Docker, Nginx, Figma |
-| **Frontend** | React.js, Vite, HTML5, CSS3, Tailwind CSS |
-| **Coursework** | Database Management Systems, Computer Architecture, Digital Electronics |
+### 📊 GitHub Statistics:
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanssinha&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical" alt="shivanssinha top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanssinha&amp;show_icons=true&amp;locale=en&amp;theme=radical" alt="shivanssinha stats" />
+</p>
 
-## Education
+<br clear="both">
 
-| | | |
-|---|---|---|
-| **B.Tech, Computer Science and Engineering**, Jawaharlal Nehru University, New Delhi | CGPA 7.55 / 10 | Expected 2028 |
-| **Class XII**, The Indian Public School (CBSE) | 91% | 2024 |
-| **Class X**, DonyPolo Public School (CBSE) | 92% | 2022 |
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=shivanssinha&amp;theme=radical" alt="shivanssinha streak" />
+</p>
